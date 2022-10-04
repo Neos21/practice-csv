@@ -1,0 +1,2 @@
+# CSV を言語判定に認識させる
+*.csv linguist-detectable=true
